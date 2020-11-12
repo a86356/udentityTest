@@ -1,0 +1,59 @@
+
+.addBtn{
+    margin-bottom: 20px;
+}
+.listwrap{
+    border: 1px solid #ccc;
+}
+
+.listwrap .list-item{
+    display: flex;
+    border-bottom: 1px solid #ccc;
+}
+.listwrap .list-item .col{
+    padding: 20px;
+    width: 100px;
+}
+.btn{
+    color: #fff;
+    background: blue;
+    width: 60px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.editBtn{
+    background: blue;
+}
+.deleteBtn{
+    background: red;
+}
+.btnwrap{
+    margin-top: 10px;
+}
+.saveBtn{
+    background: greenyellow;
+}
+
+.viewBtn{
+    background: black;
+}
+.editform{
+    margin: 20px;
+}
+.editform .item{
+    display: flex;
+    margin-bottom: 15px;
+}
+.editform .item .label{
+    width: 100px;
+}
+.warning{
+    color: red;
+    font-weight: bold;
+}
+
+.price-map{
+    margin-top: 20px;
+}
